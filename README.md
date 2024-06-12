@@ -22,12 +22,12 @@
     🔹
     <a href="https://github.com/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/Sathvika/My Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/sathvikaa29/My-Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [sathvikaa29](https://github.com/sathvika/My Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [sathvikaa29](https://github.com/sathvikaa29/My-Portfolio). Thanks!
 
 ## Built With
 
